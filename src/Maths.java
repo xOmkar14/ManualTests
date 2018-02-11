@@ -2,7 +2,7 @@ public class Maths {
 
     //declare here variables int a and b and give values for int
     int a = 50;
-    int b = 20;
+    int b = 10;
     int ans;
 
     public static void main (String[] args) {
